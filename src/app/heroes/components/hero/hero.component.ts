@@ -5,7 +5,7 @@ import { Component } from '@angular/core';
   standalone: false,
 
   templateUrl: './hero.component.html',
-  styleUrl: './hero.component.css',
+  styleUrl: './hero.component.css'
 })
 export class HeroComponent {
   public name: string = 'ironman';

@@ -14,9 +14,9 @@ import { DbzModule } from './dbz/dbz.module';
     AppRoutingModule,
     CounterModule,
     HeroesModule,
-    DbzModule,
+    DbzModule
   ],
   providers: [],
-  bootstrap: [AppComponent],
+  bootstrap: [AppComponent]
 })
 export class AppModule {}

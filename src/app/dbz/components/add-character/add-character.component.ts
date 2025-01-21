@@ -5,6 +5,6 @@ import { Component } from '@angular/core';
   standalone: false,
 
   templateUrl: './add-character.component.html',
-  styleUrl: './add-character.component.css',
+  styleUrl: './add-character.component.css'
 })
 export class AddCharacterComponent {}
